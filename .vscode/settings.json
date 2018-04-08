@@ -1,0 +1,21 @@
+{
+    "jshint.options": {
+        "esversion": 6,
+        "undef": true,
+        "unused": false,
+        "predef": [
+            "Ext",
+            "this",
+            "require",
+            "module",
+            "export",
+            "__dirname",
+            "console",
+            "exports",
+            "$",
+            "document",
+            "window",
+            "io"
+        ]
+    }
+}
